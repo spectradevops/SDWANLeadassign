@@ -1,0 +1,20 @@
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWANLeadassign\SDWANLeadassign\bin\Debug\SDWANLeadassign.dll
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWANLeadassign\SDWANLeadassign\bin\Debug\SDWANLeadassign.pdb
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWANLeadassign\SDWANLeadassign\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWANLeadassign\SDWANLeadassign\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWANLeadassign\SDWANLeadassign\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWANLeadassign\SDWANLeadassign\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWANLeadassign\SDWANLeadassign\obj\Debug\SDWANLeadassign.dll
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWANLeadassign\SDWANLeadassign\obj\Debug\SDWANLeadassign.pdb
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWANLeadassign\SDWANLeadassign\obj\Debug\SDWANLeadassign.csprojResolveAssemblyReference.cache
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWANLeadassign\SDWANLeadassign\obj\Debug\SDWANLeadassign.csproj.CoreCompileInputs.cache
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWANLeadassign\SDWANLeadassign\obj\Debug\SDWANLeadassign.csproj.CopyComplete
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWAN Plugin\SDWANLeadassign\SDWANLeadassign\bin\Debug\SDWANLeadassign.dll
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWAN Plugin\SDWANLeadassign\SDWANLeadassign\bin\Debug\SDWANLeadassign.pdb
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWAN Plugin\SDWANLeadassign\SDWANLeadassign\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWAN Plugin\SDWANLeadassign\SDWANLeadassign\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWAN Plugin\SDWANLeadassign\SDWANLeadassign\obj\Debug\SDWANLeadassign.csprojResolveAssemblyReference.cache
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWAN Plugin\SDWANLeadassign\SDWANLeadassign\obj\Debug\SDWANLeadassign.csproj.CoreCompileInputs.cache
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWAN Plugin\SDWANLeadassign\SDWANLeadassign\obj\Debug\SDWANLeadassign.csproj.CopyComplete
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWAN Plugin\SDWANLeadassign\SDWANLeadassign\obj\Debug\SDWANLeadassign.dll
+C:\Users\DEEPAK KUMAR\Documents\Visual Studio 2015\Projects\SDWAN Plugin\SDWANLeadassign\SDWANLeadassign\obj\Debug\SDWANLeadassign.pdb
